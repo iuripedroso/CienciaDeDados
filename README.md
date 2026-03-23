@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Sobre o Projeto
+## ⌘ Sobre o Projeto
 
 Este projeto tem como objetivo explorar dados, identificar padrões e gerar insights relevantes através de técnicas de **Ciência de Dados** e **Machine Learning**.
 
