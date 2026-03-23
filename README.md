@@ -1,31 +1,41 @@
-<h1 align="center">Now you see it, now you don’t</h1>
+<h1 align="center">📊 Data Science Project</h1>
 
 <p align="center">
-  <sub>You’ve never seen this much of the web</sub>
+  Transformando dados em decisões inteligentes
 </p>
 
-<p align="center">―</p>
+<p align="center">
+  <img src="" width="600"/>
+</p>
 
 <p align="center">
-  <img src="https://github.com/iuripedroso/CienciaDeDados/blob/main/image.png?raw=true" width="500"/>
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Data-Science-0f172a?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Machine-Learning-38bdf8?style=for-the-badge">
 </p>
 
 ---
 
-<p align="center">
-  data • perception • interpretation
-</p>
+## 🚀 Sobre o Projeto
+
+Este projeto tem como objetivo explorar dados, identificar padrões e gerar insights relevantes através de técnicas de **Ciência de Dados** e **Machine Learning**.
 
 ---
 
-## ⌘ about
+## 🎯 Objetivos
 
-Este projeto explora como dados podem ser interpretados de diferentes formas —  
-assim como a clássica ilusão do pato/coelho.
-
-O mesmo conjunto de dados pode contar histórias completamente diferentes,  
-dependendo da forma como é analisado.
+- 📌 Explorar e entender o dataset  
+- 🧹 Limpar e tratar dados  
+- 📊 Criar visualizações informativas  
+- 🤖 Treinar modelos preditivos  
+- 📈 Gerar insights para tomada de decisão  
 
 ---
 
-## ⌘ pipeline
+## 🧠 Tecnologias Utilizadas
+
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib / Seaborn  
+  
