@@ -7,9 +7,8 @@
 <p align="center">―</p>
 
 <p align="center">
-  <img src="[https://images.unsplash.com/photo-1551288049-bebda4e38f71](https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/desktop/vivaldi_79_hero_transparent.webp?v=2)" width="700"/>
+  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71" width="700"/>
 </p>
-
 ---
 
 <p align="center">
