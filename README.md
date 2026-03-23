@@ -7,7 +7,7 @@
 <p align="center">―</p>
 
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/6/6b/Duck-Rabbit_illusion.jpg](https://claudia.abril.com.br/wp-content/uploads/2016/10/ilusao-de-otica-coelho-pato.png?w=1280&h=720&crop=1)" width="500"/>
+  <img src="[[https://upload.wikimedia.org/wikipedia/commons/6/6b/Duck-Rabbit_illusion.jpg](https://claudia.abril.com.br/wp-content/uploads/2016/10/ilusao-de-otica-coelho-pato.png?w=1280&h=720&crop=1)](https://github.com/iuripedroso/CienciaDeDados/blob/main/image.png?raw=true)" width="500"/>
 </p>
 
 ---
