@@ -24,11 +24,11 @@ Este projeto tem como objetivo explorar dados, identificar padrões e gerar insi
 
 ## ⌘ Objetivos
 
->  Explorar e entender o dataset  
->  Limpar e tratar dados  
->  Criar visualizações informativas  
->  Treinar modelos preditivos  
->  Gerar insights para tomada de decisão  
+-  Explorar e entender o dataset  
+-  Limpar e tratar dados  
+-  Criar visualizações informativas  
+-  Treinar modelos preditivos  
+-  Gerar insights para tomada de decisão  
 
 ---
 
