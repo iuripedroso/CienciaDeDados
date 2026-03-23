@@ -7,8 +7,9 @@
 <p align="center">―</p>
 
 <p align="center">
-  <img src="https://claudia.abril.com.br/noticias/um-pato-ou-um-coelho-entenda-o-que-esse-teste-diz-sobre-voce/" width="700"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Duck-Rabbit_illusion.jpg" width="500"/>
 </p>
+
 ---
 
 <p align="center">
