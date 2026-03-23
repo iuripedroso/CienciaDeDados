@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://s3.novatec.com.br/capas-ampliadas/capa-ampliada-9786586057102.jpg" width="600"/>
+  <img src="https://s3.novatec.com.br/capas-ampliadas/capa-ampliada-9786586057102.jpg" width="200"/>
 </p>
 
 <p align="center">
