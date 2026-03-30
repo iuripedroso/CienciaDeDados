@@ -1,0 +1,58 @@
+[
+    {
+        "imdbID": "tt1132626",
+        "title": "Saw V",
+        "year": "2008",
+        "rated": "R",
+        "genre": "Horror, Thriller",
+        "director": "David Hackl",
+        "actors": "Scott Patterson, Costas Mandylor, Tobin Bell",
+        "plot": "Following Jigsaw's grisly demise, Mark Hoffman is commended as a hero, but Agent Strahm is suspicious, and delves into Hoffman's past. Meanwhile, another group of people are put through a series of gruesome tests.",
+        "imdbRating": "5.8",
+        "boxOffice": "$56,746,769",
+        "type": "movie",
+        "poster_local": "tt1132626.jpg"
+    },
+    {
+        "imdbID": "tt3783958",
+        "title": "La La Land",
+        "year": "2016",
+        "rated": "PG-13",
+        "genre": "Comedy, Drama, Music",
+        "director": "Damien Chazelle",
+        "actors": "Ryan Gosling, Emma Stone, Rosemarie DeWitt",
+        "plot": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers.",
+        "imdbRating": "8.0",
+        "boxOffice": "$151,101,803",
+        "type": "movie",
+        "poster_local": "tt3783958.jpg"
+    },
+    {
+        "imdbID": "tt0056663",
+        "title": "Vivre sa vie",
+        "year": "1962",
+        "rated": "Not Rated",
+        "genre": "Drama",
+        "director": "Jean-Luc Godard",
+        "actors": "Anna Karina, Sady Rebbot, André S. Labarthe",
+        "plot": "Twelve episodic tales in the life of a Parisian woman and her slow descent into prostitution.",
+        "imdbRating": "7.8",
+        "boxOffice": "$24,517",
+        "type": "movie",
+        "poster_local": "tt0056663.jpg"
+    },
+    {
+        "imdbID": "tt0116409",
+        "title": "The Ghost and the Darkness",
+        "year": "1996",
+        "rated": "R",
+        "genre": "Adventure, Drama, Thriller",
+        "director": "Stephen Hopkins",
+        "actors": "Michael Douglas, Val Kilmer, Tom Wilkinson",
+        "plot": "A bridge engineer and an experienced old hunter begin a hunt for two lions after they start attacking local construction workers.",
+        "imdbRating": "6.8",
+        "boxOffice": "$38,619,405",
+        "type": "movie",
+        "poster_local": "tt0116409.jpg"
+    }
+]
