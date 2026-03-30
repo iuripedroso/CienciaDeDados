@@ -8,7 +8,7 @@ input_titulo = input("Digite o título do filme/série: ")
 
 parametros = {
     "apikey": API_KEY,
-    "t": input_titulo  # busca por título
+    "t": input_titulo  
 }
 
 response = requests.get(BASE_URL, params=parametros)
