@@ -8,7 +8,7 @@ __pycache__/
 # Ambiente virtual (se usar depois)
 venv/
 .env/
-.schema.py
-
+.schema.py/
+.\schema.py
 # VS Code (opcional)
 .vscode/
