@@ -1,0 +1,14 @@
+# Arquivos de configuração sensíveis
+config.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual (se usar depois)
+venv/
+.env/
+.schema.py
+
+# VS Code (opcional)
+.vscode/
