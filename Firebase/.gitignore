@@ -1,0 +1,16 @@
+# Arquivos de configuração sensíveis
+config.json
+ccdados-firebase-adminsdk-fbsvc-e5d375e4d1.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual (se usar depois)
+venv/
+.env/
+
+# VS Code (opcional)
+.vscode/
+
+# Remove-Item -Recurse -Force Scraping\.git ////// remover repo interno 
