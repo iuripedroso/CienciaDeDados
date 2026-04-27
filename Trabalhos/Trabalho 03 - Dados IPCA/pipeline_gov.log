@@ -1,0 +1,34 @@
+2026-04-13 11:12:20,563 - ERROR - Falha no pipeline: 406 Client Error: Not Acceptable for url: https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json
+2026-04-13 11:15:29,798 - ERROR - Falha no pipeline: 406 Client Error: Not Acceptable for url: https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json
+2026-04-13 11:20:53,616 - ERROR - Falha no pipeline: 406 Client Error: Not Acceptable for url: https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=01/01/2016&dataFinal=13/04/2026
+2026-04-13 11:24:04,114 - ERROR - Falha no pipeline: 'CMySQLConnection' object has no attribute 'get_database'
+2026-04-13 11:25:46,122 - INFO - Conexão ativa no banco: teste
+2026-04-13 11:25:46,243 - ERROR - Falha no pipeline: 'bool' object is not callable
+2026-04-13 11:27:16,511 - INFO - Conexão ativa no banco: teste
+2026-04-13 11:27:16,618 - INFO - Processamento de 2507 linhas diárias concluído.
+2026-04-13 11:27:16,940 - WARNING - Comandos internos do slide testados: 'CMySQLConnection' object has no attribute 'set_database'
+2026-04-17 10:41:03,348 - INFO - Conexão ativa no banco: teste
+2026-04-17 10:41:03,452 - INFO - Processamento de 4 linhas diárias concluído.
+2026-04-17 10:41:03,726 - WARNING - Comandos internos do slide testados: 'CMySQLConnection' object has no attribute 'set_database'
+2026-04-24 10:27:03,892 - INFO - Conexão ativa no banco: teste
+2026-04-24 10:27:03,997 - INFO - Processamento de 4 linhas diárias concluído.
+2026-04-24 10:27:04,305 - WARNING - Comandos internos do slide testados: 'CMySQLConnection' object has no attribute 'set_database'
+2026-04-24 10:40:29,651 - INFO - Conexão ativa no banco: teste
+2026-04-24 10:40:29,755 - INFO - Processamento de 0 linhas diárias concluído.
+2026-04-24 10:40:30,047 - WARNING - Comandos internos do slide testados: 'CMySQLConnection' object has no attribute 'set_database'
+2026-04-26 23:07:08,368 - ERROR - Erro ao conectar no banco: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-04-26 23:07:57,142 - INFO - Conexão ativa no banco: teste
+2026-04-26 23:07:58,033 - INFO - Processamento de 2508 linhas diárias concluído.
+2026-04-26 23:08:02,291 - WARNING - Comandos internos do slide testados: 'CMySQLConnection' object has no attribute 'set_database'
+2026-04-26 23:12:17,990 - INFO - Conexão ativa no banco: teste
+2026-04-26 23:12:18,448 - INFO - Processamento de 0 linhas diárias concluído.
+2026-04-26 23:12:19,783 - WARNING - Comandos internos do slide testados: 'CMySQLConnection' object has no attribute 'set_database'
+2026-04-26 23:14:20,219 - INFO - Conexão ativa no banco: teste
+2026-04-26 23:14:20,582 - INFO - Processamento de 0 linhas diárias concluído.
+2026-04-26 23:14:22,547 - WARNING - Comandos internos do slide testados: 'CMySQLConnection' object has no attribute 'set_database'
+2026-04-26 23:20:44,862 - INFO - Conexão ativa no banco: teste
+2026-04-26 23:20:46,152 - INFO - Processamento de 0 linhas diárias concluído.
+2026-04-26 23:20:49,411 - WARNING - Comandos internos do slide testados: 'CMySQLConnection' object has no attribute 'set_database'
+2026-04-26 23:21:39,031 - INFO - Conexão ativa no banco: teste
+2026-04-26 23:21:39,390 - INFO - Processamento de 0 linhas diárias concluído.
+2026-04-26 23:21:40,858 - WARNING - Comandos internos do slide testados: 'CMySQLConnection' object has no attribute 'set_database'

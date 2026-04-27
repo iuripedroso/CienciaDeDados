@@ -10,5 +10,6 @@ venv/
 .env/
 .schema.py/
 .\schema.py
+
 # VS Code (opcional)
 .vscode/
